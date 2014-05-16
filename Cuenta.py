@@ -1,4 +1,4 @@
-__author__ = 'aminata'
+__author__ = 'amine'
 
 import urllib
 import urllib.request
